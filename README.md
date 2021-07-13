@@ -1,4 +1,4 @@
-# BIM Project Database API 2 Nodes User guide
+# BIM Project Database API 2 Nodes Consortium Chain User guide
 ###### tags: `BIM Project Database`
 
 ## Code
