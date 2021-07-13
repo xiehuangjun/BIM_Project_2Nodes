@@ -1,4 +1,4 @@
-# BIM Project Database API V15 User guide
+# BIM Project Database API 2 Nodes User guide
 ###### tags: `BIM Project Database`
 
 ## Code
