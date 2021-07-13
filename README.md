@@ -48,7 +48,6 @@
 > Step 10. `sudo mysql -u root -p`
 > Step 11. `show databases;`
 
-
 ## Create an ethereum
 > 1. Use `mkdir ethereum` to create a new folder.
 > 2. Use `cd ./ethereum` to change your location.
